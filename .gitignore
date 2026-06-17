@@ -1,4 +1,8 @@
+# Ignore backfill files and directories
 backfill
 backfill.*
 **/backfill
 **/backfill.*
+
+# Ignore node_modules directory
+node_modules
